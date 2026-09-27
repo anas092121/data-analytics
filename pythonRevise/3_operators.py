@@ -1,3 +1,5 @@
+# comditional operators
+
 10 > 5      # True
 10 < 5      # False
 10 == 10    # True
@@ -5,17 +7,12 @@
 10 >= 10    # True
 10 <= 9     # False
 
-
 sales = 50000
-
 print(sales > 30000)
 print(sales == 50000)
 print(sales < 10000)
 
-
-
 orders = 25
-
 print(orders > 20)
 print(orders == 20)
 print(orders != 20)
