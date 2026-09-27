@@ -88,3 +88,14 @@ print(diatance.count(10000))
 # index - tells the index of first occurance index of a value in a list
 transactions = [100, 200, 100, 300, 100]
 print(transactions.index(100))
+
+
+
+# sum - returns sum of all elements in a list
+print(sum(transactions))
+
+
+
+# min/max
+print(min(transactions))
+print(max(transactions))
