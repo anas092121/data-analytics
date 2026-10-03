@@ -5,5 +5,3 @@
 products = ["Laptop", "Phone", "Tablet"]
 for i, product in enumerate(products):
     print(i, product)
-
-print(enumerate(products))
