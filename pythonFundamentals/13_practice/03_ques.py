@@ -7,7 +7,7 @@ def total_sales(sales):
     total = 0
     for prod, amount in sales.items():
         total += amount
-    return amount    
+    return total   
 
 
 sales = {
